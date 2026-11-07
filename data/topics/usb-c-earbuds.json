@@ -97,7 +97,7 @@
           "source": "https://m.media-amazon.com/images/I/61VYh8ewbkL._AC_SL1412_.jpg"
         }
       ],
-      "imageNote": "Retailer product imagery. Black in-ear buds; ABS reel; microphone; pull both ends together. No independent acoustic or durability testing found. Universal USB-C claim is seller wording, not device-specific proof. In stock; sold by FONUS Direct, ships Amazon."
+      "imageNote": "Original Amazon Fonus product gallery retained; selected offer is now OdeMobile for the same Fonus family. Images are seller illustrations, not sound or comfort tests."
     },
     {
       "id": "sony",
@@ -628,7 +628,7 @@
       "summary": "",
       "verdict": "NOS; sound and mechanism condition untested",
       "facts": {
-        "Fabric": "3.5mm · 32g whole unit · key-ring hook",
+        "Fabric": "3.5mm + USB-C DAC required · 32g whole unit · key-ring hook",
         "Delivery": "10016 US selected: £13.02 GBP shipping; estimated Nov 25–30. Import fee displayed as US $0.75 estimate; tax unknown. Signed-out offer, not exact-address guarantee.",
         "Evidence": "Sealed new-old-stock, not function-tested; shelf-worn packaging. Production ended. Sony documents retractable cord and waist/bag hook. 30-day buyer-paid returns; seller security-sticker restriction may conflict with platform policy.",
         "Wearability": "Manufacturer 32g whole unit (not 4g buds-only). Hook/carabiner, not shirt clip. Reel-only dimensions and comfort unknown.",
@@ -687,7 +687,7 @@
       "summary": "",
       "verdict": "Weight and exact release action unverified",
       "facts": {
-        "Fabric": "3.5mm · clothing clip · 80cm cord",
+        "Fabric": "3.5mm + USB-C DAC required · clothing clip · 80cm cord",
         "Delivery": "10016 US selected: $10 shipping; estimated Nov 12–23. Shipping module says import fees included but seller boilerplate says excluded; confirm checkout. Tax unknown.",
         "Evidence": "New black variant. Pocket/bag clip documented. Aluminum housings are not sound-quality evidence. One model, not separate color choices. 30-day buyer-paid returns.",
         "Wearability": "Clip documented; weight and reel-only dimensions unknown. 100 × 135 × 30mm is packaging, not reel. Comfort untested.",
@@ -734,7 +734,7 @@
       "summary": "",
       "verdict": "Delayed dispatch; clothing clip unconfirmed",
       "facts": {
-        "Fabric": "3.5mm · 15g published · 84cm cord",
+        "Fabric": "3.5mm + USB-C DAC required · 15g published · 84cm cord",
         "Delivery": "Usually ships within 6 weeks. Free international delivery advertised to New York 10118, NOT 10016. No exact-address/account confirmation; tax unknown.",
         "Evidence": "Manufacturer sales ended; residual import offer remains orderable, not confirmed on-hand stock. Published 15g supports lightweight design, not comfort or sound proof.",
         "Wearability": "Manufacturer 15g; reel-only size and clothing attachment unknown.",
@@ -914,7 +914,7 @@
       "summary": "",
       "verdict": "No confirmed US import route",
       "facts": {
-        "Fabric": "3.5mm · 17g incl. cord/reel · clip",
+        "Fabric": "3.5mm + USB-C DAC required · 17g incl. cord/reel · clip",
         "Delivery": "Japan domestic offer only. Amazon JP black explicitly refuses selected United States destination. No confirmed US forwarding or delivered price.",
         "Evidence": "Black domestic variant available; price includes Japan tax. Manufacturer manual explicitly documents clothing clip and automatic pull-release winding. Customer sound complaints are anecdotal, not measurements.",
         "Wearability": "Manufacturer 17g includes reel and cord. Clip confirmed; reel-only dimensions and long-session comfort unknown.",
@@ -936,6 +936,11 @@
       ],
       "images": [
         {
+          "src": "assets/images/earbuds-maxell-mxh-c110r-03.webp",
+          "alt": "Maxell +FiT MXH-C110RBK — product image 3",
+          "source": "https://www.maxell.jp/consumer/assets/img/851907_03_MXH-C110RBK_pkg.jpg"
+        },
+        {
           "src": "assets/images/earbuds-maxell-mxh-c110r-01.webp",
           "alt": "Maxell +FiT MXH-C110RBK — product image 1",
           "source": "https://www.maxell.jp/consumer/assets/img/851907_01_MXH-C110RBK.jpg"
@@ -944,16 +949,11 @@
           "src": "assets/images/earbuds-maxell-mxh-c110r-02.webp",
           "alt": "Maxell +FiT MXH-C110RBK — product image 2",
           "source": "https://www.maxell.jp/consumer/assets/img/851907_02_MXH-C110RBK_reel.jpg"
-        },
-        {
-          "src": "assets/images/earbuds-maxell-mxh-c110r-03.webp",
-          "alt": "Maxell +FiT MXH-C110RBK — product image 3",
-          "source": "https://www.maxell.jp/consumer/assets/img/851907_03_MXH-C110RBK_pkg.jpg"
         }
       ],
       "imageNote": "Exact listing/manufacturer imagery, not a hands-on comfort test. Gallery limited to retrieved model/variant images.",
-      "image": "assets/images/earbuds-maxell-mxh-c110r-01.webp",
-      "imageAlt": "Maxell +FiT MXH-C110RBK — product image 1"
+      "image": "assets/images/earbuds-maxell-mxh-c110r-03.webp",
+      "imageAlt": "Maxell +FiT MXH-C110RBK — product image 3"
     },
     {
       "id": "go-travel-906",
@@ -970,7 +970,7 @@
       "summary": "",
       "verdict": "US eligibility unverified",
       "facts": {
-        "Fabric": "3.5mm · 29g · magnetic clothing clip",
+        "Fabric": "3.5mm + USB-C DAC required · 29g · magnetic clothing clip",
         "Delivery": "UK listing at £12.99. US shipping eligibility, cost, delivery and import charges not verified.",
         "Evidence": "UK variant available. Manufacturer describes integrated recoiling system and magnetic clothing clip. Dimensions 44 × 1000 × 22mm include extended cable, not complete reel-only measurements.",
         "Wearability": "Manufacturer 29g and magnetic clothing clip; comfort untested.",
