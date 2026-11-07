@@ -632,7 +632,7 @@
         "Delivery": "10016 US selected: £13.02 GBP shipping; estimated Nov 25–30. Import fee displayed as US $0.75 estimate; tax unknown. Signed-out offer, not exact-address guarantee.",
         "Evidence": "Sealed new-old-stock, not function-tested; shelf-worn packaging. Production ended. Sony documents retractable cord and waist/bag hook. 30-day buyer-paid returns; seller security-sticker restriction may conflict with platform policy.",
         "Wearability": "Manufacturer 32g whole unit (not 4g buds-only). Hook/carabiner, not shirt clip. Reel-only dimensions and comfort unknown.",
-        "Retraction": "Retractable cord documented; exact release instructions not independently retrieved. Age-related spring/cable condition unknown.",
+        "Retraction": "Official Sony manual verifies button-operated automatic earbud-cord rewind; short connecting lead winds manually at rear. Old-stock mechanism condition untested.",
         "Sound": "Sound quality unverified; no convincing independent acoustic validation established.",
         "Compatibility": "3.5mm analog: requires a separate compatible active USB-C DAC adapter. Adapter cost not included; handset pairing untested."
       },
@@ -958,33 +958,33 @@
     {
       "id": "go-travel-906",
       "name": "Go Travel 906 retractable earphones",
-      "url": "https://shop.go.travel/en-gb/products/retractable-earphones-uk",
+      "url": "https://shop.go.travel/en-us/products/retractable-earphones-uk",
       "brand": "Go Travel",
-      "store": "Go Travel UK",
-      "priceLabel": "£12.99 GBP",
-      "unitPriceUSD": null,
-      "category": "Import unconfirmed",
+      "store": "Go Travel US",
+      "priceLabel": "$21.00 USD",
+      "unitPriceUSD": 21,
+      "category": "Analog + USB-C DAC",
       "color": "White",
       "naturalPercent": null,
       "integrityRank": 0,
       "summary": "",
-      "verdict": "US eligibility unverified",
+      "verdict": "US shipping quoted; sound unverified",
       "facts": {
         "Fabric": "3.5mm + USB-C DAC required · 29g · magnetic clothing clip",
-        "Delivery": "UK listing at £12.99. US shipping eligibility, cost, delivery and import charges not verified.",
+        "Delivery": "$4.99 Standard shipping quoted to 10016; $25.99 before unshown tax/fees and adapter. No arrival date supplied.",
         "Evidence": "UK variant available. Manufacturer describes integrated recoiling system and magnetic clothing clip. Dimensions 44 × 1000 × 22mm include extended cable, not complete reel-only measurements.",
         "Wearability": "Manufacturer 29g and magnetic clothing clip; comfort untested.",
         "Retraction": "Manufacturer: pull both ends to retract/detract.",
         "Sound": "Sound quality unverified; no convincing independent acoustic validation established.",
         "Compatibility": "3.5mm analog: requires a separate compatible active USB-C DAC adapter. Adapter cost not included; handset pairing untested."
       },
-      "materialCaveat": "US eligibility unverified",
+      "materialCaveat": "US shipping quoted; sound unverified",
       "attribution": "UK variant available. Manufacturer describes integrated recoiling system and magnetic clothing clip. Dimensions 44 × 1000 × 22mm include extended cable, not complete reel-only measurements.",
       "sources": [
         "go-travel-906-source"
       ],
       "sourceLinks": [
-        "https://shop.go.travel/en-gb/products/retractable-earphones-uk"
+        "https://shop.go.travel/en-us/products/retractable-earphones-uk"
       ],
       "images": [
         {
@@ -1195,10 +1195,10 @@
     {
       "id": "go-travel-906-source",
       "title": "Go Travel 906 retractable earphones",
-      "url": "https://shop.go.travel/en-gb/products/retractable-earphones-uk",
+      "url": "https://shop.go.travel/en-us/products/retractable-earphones-uk",
       "publisher": "Go Travel UK",
       "accessed": "2026-11-06",
-      "note": "UK variant available. Manufacturer describes integrated recoiling system and magnetic clothing clip. Dimensions 44 × 1000 × 22mm include extended cable, not complete reel-only measurements. UK listing at £12.99. US shipping eligibility, cost, delivery and import charges not verified."
+      "note": "UK variant available. Manufacturer describes integrated recoiling system and magnetic clothing clip. Dimensions 44 × 1000 × 22mm include extended cable, not complete reel-only measurements. $4.99 Standard shipping quoted to 10016; $25.99 before unshown tax/fees and adapter. No arrival date supplied."
     },
     {
       "id": "fonus-odemobile",
