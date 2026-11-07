@@ -1,6 +1,6 @@
 {
   "id": "usb-c-earbuds",
-  "title": "USB-C earbuds & cord organizers",
+  "title": "Automatic, wearable USB-C earbuds",
   "layout": "natural-basics",
   "catalog": true,
   "defaultSort": "price",
@@ -8,9 +8,9 @@
   "summary": "",
   "updated": "2026-11-06",
   "recommendation": {
-    "title": "Sound first: QUARK 2 + Cableyoyo",
-    "text": "About $26.98 with green, $27.10 with dark grey, before shipping/tax. Manual winding\u2014not automatic retraction. Fonus is the closest all-in-one, but its sound quality is unproven.",
-    "test": "Amazon dates are signed-out advertised offers, checked Nov 6 for NYC\u2014not confirmed for your account. No earbud\u2013organizer pairing has been physically tested."
+    "title": "Automatic + tiny: no fully verified match yet",
+    "text": "Fonus is the only plausible built-in candidate from this shortlist. Reel dimensions, actual weight and clothing attachment are undocumented, so comfortable wear is not established.",
+    "test": "Manual wraps and bulky/unverified add-on reels are archived under Removed. Wired USB-C audio remains required; Bluetooth charging ports do not qualify. Prices/delivery below were checked Nov 6 and are not account-confirmed."
   },
   "products": [
     {
@@ -25,18 +25,21 @@
       "integrityRank": 0,
       "naturalPercent": null,
       "color": "Black",
-      "verdict": "Closest exact match; sound unproven",
+      "verdict": "Provisional only \u2014 wearability unverified",
       "summary": "",
       "facts": {
-        "Fabric": "Built-in pull-to-retract; sound unproven",
+        "Fabric": "Automatic pull-to-retract \u00b7 size/weight unknown",
         "Delivery": "Advertised Prime Nov 9; non-Prime Nov 12 free on $35 eligible order. Not account-confirmed.",
         "Evidence": "Black in-ear buds; ABS reel; microphone; pull both ends together. No independent acoustic or durability testing found. Universal USB-C claim is seller wording, not device-specific proof. In stock; sold by FONUS Direct, ships Amazon.",
-        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings.",
+        "Wearability": "No published reel dimensions, usable product weight or confirmed clothing clip found. Seller weight=0 is a placeholder, not a measurement. Do not infer comfort from product photography.",
+        "Retraction": "Pull both sides together to extend/retract; hands-free or constant self-adjusting tension is not documented."
       },
-      "materialCaveat": "Prime Nov 9 advertised (conditional)",
+      "materialCaveat": "No verified clothing clip or comfort evidence",
       "attribution": "Black in-ear buds; ABS reel; microphone; pull both ends together. No independent acoustic or durability testing found. Universal USB-C claim is seller wording, not device-specific proof. In stock; sold by FONUS Direct, ships Amazon. Advertised Prime Nov 9; non-Prime Nov 12 free on $35 eligible order. Not account-confirmed.",
       "sources": [
-        "fonus-source"
+        "fonus-source",
+        "fonus-secondary"
       ],
       "sourceLinks": [
         "https://www.amazon.com/dp/B0H51BLSC3"
@@ -695,8 +698,25 @@
       "publisher": "SoundGuys",
       "accessed": "2026-11-06",
       "note": "Reviewed acoustic evidence; not our own physical test."
+    },
+    {
+      "id": "fonus-secondary",
+      "title": "Fonus USB-C retractable earphones \u2014 secondary seller",
+      "url": "https://accessorychoice.com/products/usb-c-retractable-earphones-earbuds-hands-free-headphones-acc63",
+      "publisher": "AccessoryChoice",
+      "note": "Live page confirms Fonus identity and double-pull mechanism; no reel dimensions, measured weight or clip specification."
     }
   ],
   "caveat": "No premium built-in retractable USB-C model with convincing sound evidence found in this bounded search.",
-  "evidenceNote": "Prices are item or minimum pack costs. Independent tests are linked; seller claims are not lab results."
+  "evidenceNote": "Prices are item or minimum pack costs. Independent tests are linked; seller claims are not lab results.",
+  "defaultHiddenProductIds": [
+    "sony",
+    "ukcoco",
+    "cableyoyo-grey",
+    "cableyoyo-green",
+    "apple",
+    "quark2",
+    "bobino-cord-wrap-s",
+    "fuse-side-winder-mini"
+  ]
 }
